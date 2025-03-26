@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#div{
+    padding-top: 13rem;
+}
+input {
+    padding: 10px;
+    font-size: 27px;
+}
+button {
+    padding: 10px 15px;
+    font-size: 27px;
+}
+p{
+    font-size: 25px;
+}
